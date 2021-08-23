@@ -15,12 +15,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /statuspage
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/guichevirtual/statuspage/master/assets/Logo.png
   name: Guichê Pass
   introTitle: "Monitoramento de serviços do guichê pass."
   introMessage: Aqui serão listados problemas, anúncios e avisos relacionados a plataforma.
   favicon: https://guichepass.com.br/images/gpass.ico
-  themeUrl: https://raw.githubusercontent.com/guichevirtual/statuspage/master/assets/custom.css
+  themeUrl: https://guichevirtual.github.io/statuspage/custom.css
   navbar:
     - title: Status
       href: /
