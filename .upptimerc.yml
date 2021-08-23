@@ -20,7 +20,7 @@ status-website:
   introTitle: "Monitoramento de serviços do guichê pass."
   introMessage: Aqui serão listados problemas, anúncios e avisos relacionados a plataforma.
   favicon: https://guichepass.com.br/images/gpass.ico
-  themeUrl: https://guichevirtual.github.io/statuspage/custom.css
+  themeUrl: https://gitcdn.link/repo/guichevirtual/statuspage/master/assets/custom.css
   navbar:
     - title: Status
       href: /
