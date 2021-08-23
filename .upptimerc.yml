@@ -8,7 +8,7 @@ sites:
   - name: Guichê Estrada
     url: https://guichepass.com.br/guiche-estrada
   - name: Guichê PDV
-    url: https://guichepass.com.br/
+    url: https://pdv.guichepass.com.br/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
