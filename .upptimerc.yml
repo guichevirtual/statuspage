@@ -17,8 +17,10 @@ status-website:
   baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Guichê Pass
-  introTitle: "Página de monitoramento de serviços do guichê virtual."
+  introTitle: "Monitoramento de serviços do guichê pass."
   introMessage: Aqui serão listados problemas, anúncios e avisos relacionados a plataforma.
+  favicon: https://guichepass.com.br/images/gpass.ico
+  themeUrl: https://raw.githubusercontent.com/guichevirtual/statuspage/master/assets/custom.css
   navbar:
     - title: Status
       href: /
@@ -27,7 +29,7 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-i18n:  
+i18n:
   activeIncidents: Ocorrências ativas
   allSystemsOperational: Todos sistemas operacionais
   incidentReport: "Ocorrência #$NUMBER →"
