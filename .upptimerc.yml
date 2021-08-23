@@ -1,31 +1,75 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: guichevirtual # Your GitHub organization or username, where this repository lives
+repo: statuspage # The name of this repository
+user-agent: guichevirtual
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Guichê Pass
+    url: https://guichepass.com.br/
+  - name: Guichê Estrada
+    url: https://guichepass.com.br/guiche-estrada
+  - name: Guichê PDV
+    url: https://guichepass.com.br/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  #cname: demo.upptime.js.org
+  baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Guichê Pass
+  introTitle: "Página de monitoramento de serviços do guichê virtual."
+  introMessage: Aqui serão listados problemas, anúncios e avisos relacionados a plataforma.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Guichê pass
+      href: https://guichepass.com.br/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:  
+  activeIncidents: Ocorrências ativas
+  allSystemsOperational: Todos sistemas operacionais
+  incidentReport: "Ocorrência #$NUMBER →"
+  activeIncidentSummary: Aberto em $DATE com $POSTS posts
+  incidentTitle: Detalhes da ocorrência $NUMBER
+  incidentDetails: Detalhes da ocorrência
+  incidentFixed: Arrumado
+  incidentOngoing: Em andamento
+  incidentOpenedAt: Aberto em
+  incidentClosedAt: Fechado em
+  incidentSubscribe: Se inscreva para atualizações
+  incidentViewOnGitHub: Veja no github
+  incidentCommentSummary: Informado em $DATE por $AUTHOR
+  incidentBack: ← Voltar para todas ocorrências
+  pastIncidents: Ocorrências passadas
+  pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS posts
+  liveStatus: status ao vivo
+  overallUptime: "Tempo em operação: $UPTIME"
+  overallUptimeTitle: Tempo em operação
+  averageResponseTime: "Tempo de resposta médio: $TIMEms"
+  averageResponseTimeTitle: Tempo de resposta médio
+  sevelDayResponseTime: Tempo de resposta médio - 7 dias
+  responseTimeMs: Tempo de resposta (ms)
+  up: Operacional
+  down: Não operacional
+  degraded: Degradado
+  ms: ms
+  loading: Carregando
+  navGitHub: GitHub
+  footer: 
+  errorTitle: Um erro ocorreu!
+  errorIntro: Um erro ocorreu enquanto os dados mais recentes estavam sendo carregados!
+  errorText: Você poderá tentar novamente em alguns instantes.
+  errorHome: Vá para página principal
+  pastScheduledMaintenance: Manutenções agendadas
+  scheduledMaintenance: Manutenção agendada
+  scheduledMaintenanceSummaryStarted: Iniciado em $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Início em $DATE por $DURATION minutos
+  startedAt: Iniciado em
+  startsAt: Início em
+  duration: Duração
+  durationMin: $DURATION minutos
+  incidentCompleted: Completo
+  incidentScheduled: Agendado
