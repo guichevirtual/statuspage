@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 829,
-    "timeDay": 829,
-    "timeWeek": 829,
-    "timeMonth": 829,
-    "timeYear": 829,
+    "time": 816,
+    "timeDay": 816,
+    "timeWeek": 816,
+    "timeMonth": 816,
+    "timeYear": 816,
     "dailyMinutesDown": {}
   },
   {
@@ -28,19 +28,19 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 277,
-    "timeWeek": 277,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "time": 273,
+    "timeDay": 273,
+    "timeWeek": 273,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   },
   {
     "name": "Guichê PDV",
-    "url": "https://guichepass.com.br/",
-    "icon": "https://favicons.githubusercontent.com/guichepass.com.br",
+    "url": "https://guchepass.com.br/",
+    "icon": "https://favicons.githubusercontent.com/guchepass.com.br",
     "slug": "guiche-pdv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 278,
     "timeMonth": 278,
     "timeYear": 278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-24": 0
+    }
   }
 ]
