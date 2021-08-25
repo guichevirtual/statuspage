@@ -17,14 +17,14 @@ status-website:
   # baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/guichevirtual/statuspage/master/assets/Logo.png
   name: Guichê Pass
-  introTitle: "Monitoramento de serviços do guichê pass."
+  introTitle: "Monitoramento de serviços do Guichê Pass."
   introMessage: Aqui serão listados problemas, anúncios e avisos relacionados a plataforma.
   favicon: https://guichepass.com.br/images/gpass.ico
   themeUrl: https://gitcdn.link/repo/guichevirtual/statuspage/master/assets/custom.css
   navbar:
     - title: Status
       href: /
-    - title: Guichê pass
+    - title: Guichê Pass
       href: https://guichepass.com.br/
 
 # Upptime also supports notifications, assigning issues, and more
