@@ -112,17 +112,19 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=6",
     "icon": "https://favicons.githubusercontent.com/onboardapi.guichepass.com.br",
     "slug": "sefaz-mato-grosso",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 919,
-    "timeDay": 919,
-    "timeWeek": 919,
-    "timeMonth": 919,
-    "timeYear": 919,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 934,
+    "timeDay": 934,
+    "timeWeek": 934,
+    "timeMonth": 934,
+    "timeYear": 934,
+    "dailyMinutesDown": {
+      "2021-08-25": 0
+    }
   }
 ]
