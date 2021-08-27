@@ -7,17 +7,22 @@ sites:
     url: https://guichepass.com.br/
   - name: Sefaz - Mato Grosso
     url: https://onboardapi.guichepass.com.br/sefaz?code=5
+    __dangerous__body_degraded: "degradado"
   - name: Sefaz - Mato Grosso do Sul
     url: https://onboardapi.guichepass.com.br/sefaz?code=4
+    __dangerous__body_degraded: "degradado"
   - name: Sefaz - Minas Gerais
     url: https://onboardapi.guichepass.com.br/sefaz?code=1
+    __dangerous__body_degraded: "degradado"
   - name: Sefaz - Paraná
     url: https://onboardapi.guichepass.com.br/sefaz?code=6
+    __dangerous__body_degraded: "degradado"
   - name: Sefaz - Rio Grande do Sul
     url: https://onboardapi.guichepass.com.br/sefaz?code=2
+    __dangerous__body_degraded: "degradado"
   - name: Sefaz - São Paulo
     url: https://onboardapi.guichepass.com.br/sefaz?code=3
-
+    __dangerous__body_degraded: "degradado"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
