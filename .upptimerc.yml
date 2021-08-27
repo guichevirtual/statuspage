@@ -50,7 +50,7 @@ i18n:
   activeIncidentSummary: Aberto em $DATE com $POSTS posts
   incidentTitle: Detalhes da ocorrência $NUMBER
   incidentDetails: Detalhes da ocorrência
-  incidentFixed: Arrumado
+  incidentFixed: Finalizado
   incidentOngoing: Em andamento
   incidentOpenedAt: Aberto em
   incidentClosedAt: Fechado em
