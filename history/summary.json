@@ -40,19 +40,19 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=4",
     "icon": "https://favicons.githubusercontent.com/onboardapi.guichepass.com.br",
     "slug": "sefaz-mato-grosso-do-sul",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1356,
-    "timeDay": 1276,
-    "timeWeek": 1356,
-    "timeMonth": 1356,
-    "timeYear": 1356,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1333,
+    "timeDay": 1203,
+    "timeWeek": 1333,
+    "timeMonth": 1333,
+    "timeYear": 1333,
     "dailyMinutesDown": {
-      "2021-08-31": 0
+      "2021-08-31": 14
     }
   },
   {
