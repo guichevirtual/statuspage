@@ -3,26 +3,26 @@ owner: guichevirtual # Your GitHub organization or username, where this reposito
 repo: statuspage # The name of this repository
 
 sites:
-  - name: Guichê Pass
-    url: https://guichepass.com.br/
+  - name: Buson Suite
+    url: https://buson.com.br/suite
   - name: Sefaz - Mato Grosso
     url: https://onboardapi.guichepass.com.br/sefaz?code=5
     __dangerous__body_degraded: "degradado"
   - name: Sefaz - Mato Grosso do Sul
     url: https://onboardapi.guichepass.com.br/sefaz?code=4
-    __dangerous__body_degraded: "degradado"
+    __dangerous__body_degraded: "422"
   - name: Sefaz - Minas Gerais
     url: https://onboardapi.guichepass.com.br/sefaz?code=1
-    __dangerous__body_degraded: "degradado"
+    __dangerous__body_degraded: "422"
   - name: Sefaz - Paraná
     url: https://onboardapi.guichepass.com.br/sefaz?code=6
-    __dangerous__body_degraded: "degradado"
+    __dangerous__body_degraded: "422"
   - name: Sefaz - Rio Grande do Sul
     url: https://onboardapi.guichepass.com.br/sefaz?code=2
-    __dangerous__body_degraded: "degradado"
+    __dangerous__body_degraded: "422"
   - name: Sefaz - São Paulo
     url: https://onboardapi.guichepass.com.br/sefaz?code=3
-    __dangerous__body_degraded: "degradado"
+    __dangerous__body_degraded: "422"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -30,16 +30,16 @@ status-website:
   cname: status.guichepass.com.br
   # baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/guichevirtual/statuspage/master/assets/Logo.png
-  name: Guichê Pass
-  introTitle: "Monitoramento de serviços do Guichê Pass."
+  name: Buson Suite
+  introTitle: "Monitoramento de serviços da Buson Suite."
   introMessage: Aqui serão listados problemas, anúncios e avisos relacionados a plataforma.
   favicon: https://guichepass.com.br/images/gpass.ico
   themeUrl: https://gitcdn.link/repo/guichevirtual/statuspage/master/assets/custom.css
   navbar:
     - title: Status
       href: /
-    - title: Guichê Pass
-      href: https://guichepass.com.br/
+    - title: Buson Suite
+      href: https://buson.com.br/suite
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
@@ -73,7 +73,7 @@ i18n:
   ms: ms
   loading: Carregando
   navGitHub: GitHub
-  footer: Guichê Pass - 2021
+  footer: Buson - 2021
   errorTitle: Um erro ocorreu!
   errorIntro: Um erro ocorreu enquanto os dados mais recentes estavam sendo carregados!
   errorText: Você poderá tentar novamente em alguns instantes.
