@@ -4,7 +4,7 @@ repo: statuspage # The name of this repository
 
 sites:
   - name: Buson Suite
-    url: https://buson.com.br/suite
+    url: https://suite.buson.com.br/
   - name: Sefaz - Mato Grosso
     url: https://onboardapi.guichepass.com.br/sefaz?code=5
     __dangerous__body_degraded: "degradado"
@@ -38,8 +38,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Buson Suite
-      href: https://buson.com.br/suite
+    - title: Acessar suite
+      href: https://suite.buson.com.br/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
