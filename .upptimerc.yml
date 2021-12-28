@@ -27,13 +27,13 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.guichepass.com.br
+  cname: status.buson.com.br
   # baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/guichevirtual/statuspage/master/assets/Logo.png
   name: Buson Suite
   introTitle: "Monitoramento de serviços da Buson Suite."
   introMessage: Aqui serão listados problemas, anúncios e avisos relacionados a plataforma.
-  favicon: https://guichepass.com.br/images/gpass.ico
+  favicon: https://www.buson.com.br/suite/images/favicon.ico
   themeUrl: https://gitcdn.link/repo/guichevirtual/statuspage/master/assets/custom.css
   navbar:
     - title: Status
