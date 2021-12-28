@@ -1,7 +1,7 @@
-url: https://suite.buson.com.br/
-status: up
-code: 200
-responseTime: 871
-lastUpdated: 2021-12-28T12:55:15.226Z
+url: https://buson.com.br/suite
+status: down
+code: 403
+responseTime: 207
+lastUpdated: 2021-12-28T14:21:15.416Z
 startTime: Thu Dec 23 2021 13:04:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
