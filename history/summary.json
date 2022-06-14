@@ -16,7 +16,7 @@
     "timeMonth": 198,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2022-06-14": 1149,
+      "2022-06-14": 1167,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
@@ -389,16 +389,16 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=2",
     "icon": "https://favicons.githubusercontent.com/onboardapi.guichepass.com.br",
     "slug": "sefaz-rio-grande-do-sul",
-    "status": "up",
-    "uptime": "95.91%",
-    "uptimeDay": "39.20%",
-    "uptimeWeek": "86.59%",
-    "uptimeMonth": "91.55%",
-    "uptimeYear": "95.91%",
+    "status": "down",
+    "uptime": "95.93%",
+    "uptimeDay": "40.40%",
+    "uptimeWeek": "86.58%",
+    "uptimeMonth": "91.59%",
+    "uptimeYear": "95.93%",
     "time": 1130,
-    "timeDay": 1002,
-    "timeWeek": 968,
-    "timeMonth": 937,
+    "timeDay": 997,
+    "timeWeek": 967,
+    "timeMonth": 936,
     "timeYear": 1130,
     "dailyMinutesDown": {
       "2022-06-14": 673,
@@ -471,7 +471,7 @@
       "2021-12-10": 231,
       "2021-12-06": 25,
       "2021-12-04": 104,
-      "2021-12-03": 207
+      "2021-12-03": 111
     }
   },
   {
@@ -483,7 +483,7 @@
     "uptime": "94.49%",
     "uptimeDay": "98.22%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "97.35%",
+    "uptimeMonth": "97.39%",
     "uptimeYear": "94.49%",
     "time": 1082,
     "timeDay": 1127,
