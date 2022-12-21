@@ -12,11 +12,12 @@
     "uptimeYear": "3.76%",
     "time": 230,
     "timeDay": 208,
-    "timeWeek": 232,
-    "timeMonth": 210,
+    "timeWeek": 220,
+    "timeMonth": 209,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-12-20": 1391,
+      "2022-12-21": 93,
+      "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
@@ -382,8 +383,8 @@
     "uptimeYear": "86.97%",
     "time": 1704,
     "timeDay": 1581,
-    "timeWeek": 1561,
-    "timeMonth": 1590,
+    "timeWeek": 1564,
+    "timeMonth": 1585,
     "timeYear": 1690,
     "dailyMinutesDown": {
       "2022-10-27": 35,
@@ -453,8 +454,7 @@
       "2022-04-05": 64,
       "2022-03-04": 335,
       "2022-03-03": 760,
-      "2022-03-02": 82,
-      "2021-12-21": 103
+      "2022-03-02": 82
     }
   },
   {
@@ -470,8 +470,8 @@
     "uptimeYear": "98.90%",
     "time": 1146,
     "timeDay": 931,
-    "timeWeek": 1108,
-    "timeMonth": 1045,
+    "timeWeek": 1126,
+    "timeMonth": 1048,
     "timeYear": 1138,
     "dailyMinutesDown": {
       "2022-12-15": 68,
@@ -520,9 +520,9 @@
     "uptimeYear": "97.20%",
     "time": 987,
     "timeDay": 932,
-    "timeWeek": 1018,
-    "timeMonth": 1034,
-    "timeYear": 961,
+    "timeWeek": 1032,
+    "timeMonth": 1035,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2022-12-04": 26,
       "2022-12-01": 57,
@@ -592,8 +592,7 @@
       "2022-01-24": 15,
       "2022-01-22": 909,
       "2022-01-21": 80,
-      "2021-12-22": 52,
-      "2021-12-21": 32
+      "2021-12-22": 52
     }
   },
   {
@@ -609,9 +608,9 @@
     "uptimeYear": "99.87%",
     "time": 977,
     "timeDay": 920,
-    "timeWeek": 994,
-    "timeMonth": 978,
-    "timeYear": 942,
+    "timeWeek": 1007,
+    "timeMonth": 979,
+    "timeYear": 941,
     "dailyMinutesDown": {
       "2022-10-21": 44,
       "2022-07-21": 205,
@@ -627,15 +626,15 @@
     "slug": "sefaz-rio-grande-do-sul",
     "status": "up",
     "uptime": "97.93%",
-    "uptimeDay": "40.25%",
+    "uptimeDay": "43.61%",
     "uptimeWeek": "38.75%",
-    "uptimeMonth": "83.01%",
+    "uptimeMonth": "83.34%",
     "uptimeYear": "97.27%",
     "time": 1052,
-    "timeDay": 1019,
-    "timeWeek": 1063,
+    "timeDay": 1014,
+    "timeWeek": 1065,
     "timeMonth": 1042,
-    "timeYear": 1014,
+    "timeYear": 1013,
     "dailyMinutesDown": {
       "2022-12-20": 812,
       "2022-12-19": 1353,
@@ -701,14 +700,14 @@
     "slug": "sefaz-sao-paulo",
     "status": "up",
     "uptime": "95.63%",
-    "uptimeDay": "94.47%",
+    "uptimeDay": "96.24%",
     "uptimeWeek": "98.90%",
-    "uptimeMonth": "91.43%",
-    "uptimeYear": "94.91%",
+    "uptimeMonth": "91.76%",
+    "uptimeYear": "94.94%",
     "time": 1029,
-    "timeDay": 1051,
-    "timeWeek": 1003,
-    "timeMonth": 1009,
+    "timeDay": 1101,
+    "timeWeek": 1009,
+    "timeMonth": 1011,
     "timeYear": 1000,
     "dailyMinutesDown": {
       "2022-12-20": 54,
@@ -798,8 +797,7 @@
       "2022-02-06": 47,
       "2022-01-30": 46,
       "2022-01-13": 13,
-      "2021-12-27": 32,
-      "2021-12-21": 375
+      "2021-12-27": 32
     }
   }
 ]
