@@ -13,10 +13,11 @@
     "time": 229,
     "timeDay": 230,
     "timeWeek": 185,
-    "timeMonth": 206,
+    "timeMonth": 205,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2022-12-27": 1392,
+      "2022-12-28": 95,
+      "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
@@ -367,8 +368,7 @@
       "2022-01-01": 1440,
       "2021-12-31": 1440,
       "2021-12-30": 1440,
-      "2021-12-29": 1440,
-      "2021-12-28": 1354
+      "2021-12-29": 1440
     }
   },
   {
@@ -377,7 +377,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-mato-grosso",
     "status": "up",
-    "uptime": "89.22%",
+    "uptime": "89.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -385,7 +385,7 @@
     "time": 1707,
     "timeDay": 1650,
     "timeWeek": 1589,
-    "timeMonth": 1575,
+    "timeMonth": 1562,
     "timeYear": 1686,
     "dailyMinutesDown": {
       "2022-10-27": 35,
@@ -472,7 +472,7 @@
     "time": 1142,
     "timeDay": 1231,
     "timeWeek": 1092,
-    "timeMonth": 1068,
+    "timeMonth": 1059,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2022-12-15": 68,
@@ -522,7 +522,7 @@
     "time": 986,
     "timeDay": 1120,
     "timeWeek": 977,
-    "timeMonth": 1030,
+    "timeMonth": 1027,
     "timeYear": 961,
     "dailyMinutesDown": {
       "2022-12-04": 26,
@@ -609,7 +609,7 @@
     "time": 972,
     "timeDay": 913,
     "timeWeek": 964,
-    "timeMonth": 977,
+    "timeMonth": 973,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2022-10-21": 44,
@@ -633,7 +633,7 @@
     "time": 1035,
     "timeDay": 1031,
     "timeWeek": 1017,
-    "timeMonth": 1035,
+    "timeMonth": 1034,
     "timeYear": 1012,
     "dailyMinutesDown": {
       "2022-12-27": 749,
@@ -688,7 +688,7 @@
     "time": 1027,
     "timeDay": 932,
     "timeWeek": 1006,
-    "timeMonth": 1002,
+    "timeMonth": 1001,
     "timeYear": 1000,
     "dailyMinutesDown": {
       "2022-12-23": 26,
