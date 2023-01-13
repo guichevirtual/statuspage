@@ -16,7 +16,7 @@
     "timeMonth": 189,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-01-13": 836,
+      "2023-01-13": 860,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
@@ -639,17 +639,17 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=2",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-rio-grande-do-sul",
-    "status": "up",
-    "uptime": "97.10%",
-    "uptimeDay": "42.43%",
-    "uptimeWeek": "40.89%",
-    "uptimeMonth": "51.80%",
-    "uptimeYear": "95.98%",
-    "time": 993,
-    "timeDay": 595,
-    "timeWeek": 374,
-    "timeMonth": 882,
-    "timeYear": 972,
+    "status": "down",
+    "uptime": "97.11%",
+    "uptimeDay": "44.08%",
+    "uptimeWeek": "41.13%",
+    "uptimeMonth": "51.86%",
+    "uptimeYear": "95.99%",
+    "time": 992,
+    "timeDay": 570,
+    "timeWeek": 371,
+    "timeMonth": 879,
+    "timeYear": 971,
     "dailyMinutesDown": {
       "2023-01-13": 304,
       "2023-01-12": 909,
@@ -674,8 +674,7 @@
       "2022-12-24": 974,
       "2022-12-23": 886,
       "2022-12-22": 819,
-      "2022-12-21": 851,
-      "2022-12-20": 29
+      "2022-12-21": 851
     }
   },
   {
@@ -683,17 +682,17 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=3",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-sao-paulo",
-    "status": "up",
+    "status": "down",
     "uptime": "96.12%",
-    "uptimeDay": "75.08%",
-    "uptimeWeek": "96.44%",
+    "uptimeDay": "75.04%",
+    "uptimeWeek": "96.43%",
     "uptimeMonth": "90.09%",
     "uptimeYear": "94.62%",
-    "time": 1038,
-    "timeDay": 456,
-    "timeWeek": 337,
-    "timeMonth": 1221,
-    "timeYear": 1023,
+    "time": 1037,
+    "timeDay": 381,
+    "timeWeek": 319,
+    "timeMonth": 1203,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2023-01-13": 359,
       "2023-01-05": 699,
@@ -783,7 +782,7 @@
       "2022-02-27": 307,
       "2022-02-22": 114,
       "2022-02-21": 158,
-      "2022-02-20": 33
+      "2022-02-20": 13
     }
   }
 ]
