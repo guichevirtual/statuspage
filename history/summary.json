@@ -11,12 +11,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "3.72%",
     "time": 226,
-    "timeDay": 233,
+    "timeDay": 314,
     "timeWeek": 213,
-    "timeMonth": 183,
+    "timeMonth": 181,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-01-21": 1391,
+      "2023-01-22": 104,
+      "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
@@ -367,8 +368,7 @@
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
-      "2022-01-23": 1440,
-      "2022-01-22": 1440
+      "2022-01-23": 1440
     }
   },
   {
@@ -383,9 +383,9 @@
     "uptimeMonth": "93.38%",
     "uptimeYear": "86.44%",
     "time": 1727,
-    "timeDay": 812,
+    "timeDay": 1117,
     "timeWeek": 841,
-    "timeMonth": 2065,
+    "timeMonth": 2073,
     "timeYear": 1710,
     "dailyMinutesDown": {
       "2023-01-02": 823,
@@ -474,9 +474,9 @@
     "uptimeMonth": "93.38%",
     "uptimeYear": "98.35%",
     "time": 1176,
-    "timeDay": 678,
+    "timeDay": 166,
     "timeWeek": 449,
-    "timeMonth": 1606,
+    "timeMonth": 1623,
     "timeYear": 1185,
     "dailyMinutesDown": {
       "2023-01-02": 823,
@@ -525,11 +525,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.71%",
     "uptimeMonth": "92.86%",
-    "uptimeYear": "96.63%",
+    "uptimeYear": "96.65%",
     "time": 1009,
-    "timeDay": 174,
+    "timeDay": 189,
     "timeWeek": 165,
-    "timeMonth": 1491,
+    "timeMonth": 1504,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2023-01-19": 182,
@@ -603,8 +603,7 @@
       "2022-02-13": 291,
       "2022-02-07": 151,
       "2022-01-26": 37,
-      "2022-01-24": 15,
-      "2022-01-22": 909
+      "2022-01-24": 15
     }
   },
   {
@@ -619,10 +618,10 @@
     "uptimeMonth": "93.41%",
     "uptimeYear": "99.32%",
     "time": 1040,
-    "timeDay": 145,
+    "timeDay": 161,
     "timeWeek": 294,
-    "timeMonth": 1988,
-    "timeYear": 1040,
+    "timeMonth": 2016,
+    "timeYear": 1041,
     "dailyMinutesDown": {
       "2023-01-02": 822,
       "2023-01-01": 1440,
@@ -642,14 +641,14 @@
     "slug": "sefaz-rio-grande-do-sul",
     "status": "up",
     "uptime": "96.41%",
-    "uptimeDay": "33.88%",
-    "uptimeWeek": "23.76%",
+    "uptimeDay": "40.03%",
+    "uptimeWeek": "25.28%",
     "uptimeMonth": "39.33%",
     "uptimeYear": "94.94%",
     "time": 974,
-    "timeDay": 386,
+    "timeDay": 447,
     "timeWeek": 384,
-    "timeMonth": 727,
+    "timeMonth": 725,
     "timeYear": 944,
     "dailyMinutesDown": {
       "2023-01-21": 939,
@@ -696,7 +695,7 @@
     "time": 1020,
     "timeDay": 525,
     "timeWeek": 258,
-    "timeMonth": 1024,
+    "timeMonth": 1026,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2023-01-21": 60,
