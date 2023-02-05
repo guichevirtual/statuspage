@@ -13,10 +13,10 @@
     "time": 226,
     "timeDay": 217,
     "timeWeek": 177,
-    "timeMonth": 205,
+    "timeMonth": 204,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2023-02-05": 1392,
+      "2023-02-05": 1398,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -385,7 +385,7 @@
     "time": 1687,
     "timeDay": 599,
     "timeWeek": 750,
-    "timeMonth": 835,
+    "timeMonth": 837,
     "timeYear": 1664,
     "dailyMinutesDown": {
       "2023-01-31": 772,
@@ -482,7 +482,7 @@
     "time": 1151,
     "timeDay": 1103,
     "timeWeek": 423,
-    "timeMonth": 439,
+    "timeMonth": 423,
     "timeYear": 1162,
     "dailyMinutesDown": {
       "2023-01-26": 91,
@@ -535,7 +535,7 @@
     "time": 988,
     "timeDay": 153,
     "timeWeek": 149,
-    "timeMonth": 302,
+    "timeMonth": 306,
     "timeYear": 976,
     "dailyMinutesDown": {
       "2023-01-31": 772,
@@ -626,7 +626,7 @@
     "time": 1025,
     "timeDay": 153,
     "timeWeek": 590,
-    "timeMonth": 401,
+    "timeMonth": 408,
     "timeYear": 1023,
     "dailyMinutesDown": {
       "2023-01-02": 822,
@@ -645,17 +645,17 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=2",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-rio-grande-do-sul",
-    "status": "up",
-    "uptime": "95.94%",
-    "uptimeDay": "33.92%",
-    "uptimeWeek": "15.96%",
-    "uptimeMonth": "29.41%",
-    "uptimeYear": "94.12%",
-    "time": 899,
-    "timeDay": 258,
-    "timeWeek": 276,
+    "status": "down",
+    "uptime": "95.95%",
+    "uptimeDay": "33.90%",
+    "uptimeWeek": "16.02%",
+    "uptimeMonth": "29.52%",
+    "uptimeYear": "94.13%",
+    "time": 896,
+    "timeDay": 244,
+    "timeWeek": 271,
     "timeMonth": 333,
-    "timeYear": 884,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2023-02-05": 952,
       "2023-02-04": 894,
@@ -687,7 +687,7 @@
       "2023-01-09": 798,
       "2023-01-08": 924,
       "2023-01-07": 896,
-      "2023-01-06": 565
+      "2023-01-06": 517
     }
   },
   {
@@ -704,7 +704,7 @@
     "time": 982,
     "timeDay": 153,
     "timeWeek": 328,
-    "timeMonth": 330,
+    "timeMonth": 332,
     "timeYear": 969,
     "dailyMinutesDown": {
       "2023-02-02": 815,
