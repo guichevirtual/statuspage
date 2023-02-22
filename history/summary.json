@@ -16,7 +16,8 @@
     "timeMonth": 216,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-02-21": 1415,
+      "2023-02-22": 30,
+      "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
@@ -367,8 +368,7 @@
       "2022-02-26": 1440,
       "2022-02-25": 1440,
       "2022-02-24": 1440,
-      "2022-02-23": 1440,
-      "2022-02-22": 1440
+      "2022-02-23": 1440
     }
   },
   {
@@ -527,16 +527,17 @@
     "status": "down",
     "uptime": "96.46%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "41.53%",
-    "uptimeMonth": "83.12%",
-    "uptimeYear": "95.58%",
+    "uptimeWeek": "40.99%",
+    "uptimeMonth": "82.99%",
+    "uptimeYear": "95.57%",
     "time": 972,
     "timeDay": 176,
     "timeWeek": 396,
     "timeMonth": 325,
     "timeYear": 956,
     "dailyMinutesDown": {
-      "2023-02-21": 1416,
+      "2023-02-22": 30,
+      "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
@@ -606,8 +607,7 @@
       "2022-03-09": 1182,
       "2022-03-08": 308,
       "2022-03-04": 377,
-      "2022-02-23": 15,
-      "2022-02-22": 26
+      "2022-02-23": 15
     }
   },
   {
@@ -642,18 +642,19 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=2",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-rio-grande-do-sul",
-    "status": "up",
+    "status": "down",
     "uptime": "96.42%",
-    "uptimeDay": "38.03%",
-    "uptimeWeek": "35.63%",
-    "uptimeMonth": "35.76%",
-    "uptimeYear": "94.65%",
+    "uptimeDay": "41.80%",
+    "uptimeWeek": "36.08%",
+    "uptimeMonth": "35.87%",
+    "uptimeYear": "94.66%",
     "time": 856,
-    "timeDay": 228,
-    "timeWeek": 382,
-    "timeMonth": 309,
+    "timeDay": 225,
+    "timeWeek": 383,
+    "timeMonth": 308,
     "timeYear": 822,
     "dailyMinutesDown": {
+      "2023-02-22": 0,
       "2023-02-21": 869,
       "2023-02-20": 869,
       "2023-02-19": 941,
@@ -682,7 +683,7 @@
       "2023-01-27": 833,
       "2023-01-26": 872,
       "2023-01-25": 898,
-      "2023-01-24": 843
+      "2023-01-24": 794
     }
   },
   {
@@ -692,7 +693,7 @@
     "slug": "sefaz-sao-paulo",
     "status": "up",
     "uptime": "96.16%",
-    "uptimeDay": "86.93%",
+    "uptimeDay": "90.73%",
     "uptimeWeek": "96.94%",
     "uptimeMonth": "93.50%",
     "uptimeYear": "94.27%",
