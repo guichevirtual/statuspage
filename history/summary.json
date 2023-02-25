@@ -16,7 +16,8 @@
     "timeMonth": 206,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-02-24": 1415,
+      "2023-02-25": 104,
+      "2023-02-24": 1440,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
@@ -367,8 +368,7 @@
       "2022-03-01": 1440,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
-      "2022-02-26": 1440,
-      "2022-02-25": 1440
+      "2022-02-26": 1440
     }
   },
   {
@@ -526,7 +526,7 @@
     "status": "up",
     "uptime": "96.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "33.40%",
+    "uptimeWeek": "34.69%",
     "uptimeMonth": "80.94%",
     "uptimeYear": "95.41%",
     "time": 967,
@@ -642,14 +642,14 @@
     "slug": "sefaz-rio-grande-do-sul",
     "status": "up",
     "uptime": "96.65%",
-    "uptimeDay": "37.30%",
-    "uptimeWeek": "36.76%",
+    "uptimeDay": "42.58%",
+    "uptimeWeek": "37.97%",
     "uptimeMonth": "39.61%",
     "uptimeYear": "94.97%",
     "time": 832,
-    "timeDay": 575,
-    "timeWeek": 331,
-    "timeMonth": 323,
+    "timeDay": 618,
+    "timeWeek": 333,
+    "timeMonth": 325,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2023-02-24": 879,
