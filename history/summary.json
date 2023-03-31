@@ -8,15 +8,16 @@
     "uptime": "2.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "3.72%",
     "time": 224,
     "timeDay": 217,
     "timeWeek": 182,
-    "timeMonth": 211,
+    "timeMonth": 213,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-03-30": 1414,
+      "2023-03-31": 95,
+      "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
@@ -367,8 +368,7 @@
       "2022-04-04": 1440,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
-      "2022-04-01": 1440,
-      "2022-03-31": 1440
+      "2022-04-01": 1440
     }
   },
   {
@@ -385,7 +385,7 @@
     "time": 1614,
     "timeDay": 1539,
     "timeWeek": 857,
-    "timeMonth": 980,
+    "timeMonth": 972,
     "timeYear": 1511,
     "dailyMinutesDown": {
       "2023-03-27": 388,
@@ -482,7 +482,7 @@
     "time": 1070,
     "timeDay": 158,
     "timeWeek": 159,
-    "timeMonth": 230,
+    "timeMonth": 229,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2023-03-08": 16,
@@ -530,7 +530,7 @@
     "time": 917,
     "timeDay": 156,
     "timeWeek": 620,
-    "timeMonth": 369,
+    "timeMonth": 393,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2023-03-08": 16,
@@ -614,7 +614,7 @@
     "time": 940,
     "timeDay": 157,
     "timeWeek": 318,
-    "timeMonth": 322,
+    "timeMonth": 317,
     "timeYear": 915,
     "dailyMinutesDown": {
       "2023-03-08": 16,
@@ -635,14 +635,14 @@
     "slug": "sefaz-rio-grande-do-sul",
     "status": "up",
     "uptime": "97.97%",
-    "uptimeDay": "37.09%",
+    "uptimeDay": "41.86%",
     "uptimeWeek": "38.89%",
     "uptimeMonth": "61.05%",
     "uptimeYear": "96.75%",
     "time": 732,
-    "timeDay": 222,
+    "timeDay": 228,
     "timeWeek": 322,
-    "timeMonth": 382,
+    "timeMonth": 381,
     "timeYear": 678,
     "dailyMinutesDown": {
       "2023-03-30": 905,
@@ -681,7 +681,7 @@
     "time": 910,
     "timeDay": 893,
     "timeWeek": 279,
-    "timeMonth": 422,
+    "timeMonth": 416,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2023-03-21": 26,
