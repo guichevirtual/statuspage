@@ -16,7 +16,8 @@
     "timeMonth": 204,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2023-04-13": 1419,
+      "2023-04-14": 84,
+      "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
@@ -367,8 +368,7 @@
       "2022-04-18": 1440,
       "2022-04-17": 1440,
       "2022-04-16": 1440,
-      "2022-04-15": 1440,
-      "2022-04-14": 1440
+      "2022-04-15": 1440
     }
   },
   {
@@ -629,13 +629,13 @@
     "slug": "sefaz-rio-grande-do-sul",
     "status": "up",
     "uptime": "97.82%",
-    "uptimeDay": "38.18%",
-    "uptimeWeek": "33.87%",
+    "uptimeDay": "38.50%",
+    "uptimeWeek": "34.79%",
     "uptimeMonth": "57.31%",
     "uptimeYear": "96.44%",
     "time": 696,
-    "timeDay": 539,
-    "timeWeek": 384,
+    "timeDay": 642,
+    "timeWeek": 388,
     "timeMonth": 346,
     "timeYear": 645,
     "dailyMinutesDown": {
@@ -668,7 +668,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-sao-paulo",
     "status": "up",
-    "uptime": "97.49%",
+    "uptime": "97.50%",
     "uptimeDay": "97.61%",
     "uptimeWeek": "98.24%",
     "uptimeMonth": "99.49%",
