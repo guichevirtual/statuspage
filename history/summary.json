@@ -16,7 +16,8 @@
     "timeMonth": 194,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2023-04-26": 1418,
+      "2023-04-27": 55,
+      "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -367,8 +368,7 @@
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
-      "2022-04-28": 1440,
-      "2022-04-27": 1440
+      "2022-04-28": 1440
     }
   },
   {
@@ -377,7 +377,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-mato-grosso",
     "status": "up",
-    "uptime": "91.59%",
+    "uptime": "91.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.56%",
@@ -466,8 +466,7 @@
       "2022-06-24": 83,
       "2022-06-01": 15,
       "2022-05-05": 35,
-      "2022-04-29": 48,
-      "2022-04-27": 63
+      "2022-04-29": 48
     }
   },
   {
@@ -630,18 +629,19 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=2",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-rio-grande-do-sul",
-    "status": "up",
-    "uptime": "97.49%",
-    "uptimeDay": "41.93%",
-    "uptimeWeek": "39.46%",
-    "uptimeMonth": "49.76%",
-    "uptimeYear": "95.81%",
+    "status": "down",
+    "uptime": "97.51%",
+    "uptimeDay": "41.91%",
+    "uptimeWeek": "39.49%",
+    "uptimeMonth": "50.09%",
+    "uptimeYear": "95.84%",
     "time": 671,
-    "timeDay": 307,
-    "timeWeek": 265,
-    "timeMonth": 335,
+    "timeDay": 373,
+    "timeWeek": 266,
+    "timeMonth": 338,
     "timeYear": 621,
     "dailyMinutesDown": {
+      "2023-04-27": 0,
       "2023-04-26": 837,
       "2023-04-25": 825,
       "2023-04-24": 952,
@@ -666,7 +666,7 @@
       "2023-04-05": 850,
       "2023-04-04": 934,
       "2023-04-03": 938,
-      "2023-04-02": 153
+      "2023-04-02": 9
     }
   },
   {
@@ -674,19 +674,20 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=3",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-sao-paulo",
-    "status": "down",
-    "uptime": "97.76%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "96.25%",
-    "time": 865,
-    "timeDay": 497,
-    "timeWeek": 331,
-    "timeMonth": 277,
-    "timeYear": 799,
+    "status": "up",
+    "uptime": "97.75%",
+    "uptimeDay": "94.67%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "96.24%",
+    "time": 864,
+    "timeDay": 374,
+    "timeWeek": 321,
+    "timeMonth": 274,
+    "timeYear": 798,
     "dailyMinutesDown": {
-      "2023-04-26": 0,
+      "2023-04-27": 55,
+      "2023-04-26": 22,
       "2023-04-25": 38,
       "2023-04-24": 31,
       "2023-04-23": 46,
