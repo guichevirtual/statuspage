@@ -16,7 +16,7 @@
     "timeMonth": 188,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2023-05-06": 75,
+      "2023-05-06": 81,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
@@ -626,7 +626,7 @@
     "slug": "sefaz-rio-grande-do-sul",
     "status": "up",
     "uptime": "97.60%",
-    "uptimeDay": "34.42%",
+    "uptimeDay": "34.82%",
     "uptimeWeek": "38.08%",
     "uptimeMonth": "51.17%",
     "uptimeYear": "95.93%",
