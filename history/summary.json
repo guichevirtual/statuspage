@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/buson.com.br.ico",
     "slug": "buson-suite",
     "status": "down",
-    "uptime": "2.74%",
+    "uptime": "2.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 188,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2023-05-06": 81,
+      "2023-05-06": 508,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
@@ -624,16 +624,16 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=2",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-rio-grande-do-sul",
-    "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "34.82%",
+    "status": "down",
+    "uptime": "97.61%",
+    "uptimeDay": "35.62%",
     "uptimeWeek": "38.08%",
-    "uptimeMonth": "51.17%",
-    "uptimeYear": "95.93%",
+    "uptimeMonth": "51.43%",
+    "uptimeYear": "95.95%",
     "time": 624,
-    "timeDay": 400,
-    "timeWeek": 325,
-    "timeMonth": 341,
+    "timeDay": 406,
+    "timeWeek": 322,
+    "timeMonth": 342,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2023-05-06": 75,
@@ -660,8 +660,7 @@
       "2023-04-15": 961,
       "2023-04-14": 861,
       "2023-04-13": 886,
-      "2023-04-12": 895,
-      "2023-04-11": 15
+      "2023-04-12": 799
     }
   },
   {
