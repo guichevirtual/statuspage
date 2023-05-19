@@ -12,11 +12,12 @@
     "uptimeYear": "3.72%",
     "time": 220,
     "timeDay": 194,
-    "timeWeek": 182,
+    "timeWeek": 176,
     "timeMonth": 182,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-05-18": 1390,
+      "2023-05-19": 86,
+      "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
@@ -367,8 +368,7 @@
       "2022-05-23": 1440,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
-      "2022-05-20": 1440,
-      "2022-05-19": 1440
+      "2022-05-20": 1440
     }
   },
   {
@@ -384,7 +384,7 @@
     "uptimeYear": "86.03%",
     "time": 1523,
     "timeDay": 665,
-    "timeWeek": 781,
+    "timeWeek": 789,
     "timeMonth": 759,
     "timeYear": 1406,
     "dailyMinutesDown": {
@@ -523,14 +523,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-minas-gerais",
     "status": "up",
-    "uptime": "96.82%",
+    "uptime": "96.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "95.79%",
     "time": 864,
     "timeDay": 1115,
-    "timeWeek": 527,
+    "timeWeek": 568,
     "timeMonth": 358,
     "timeYear": 830,
     "dailyMinutesDown": {
@@ -609,7 +609,7 @@
     "uptimeYear": "99.39%",
     "time": 881,
     "timeDay": 155,
-    "timeWeek": 262,
+    "timeWeek": 277,
     "timeMonth": 342,
     "timeYear": 855,
     "dailyMinutesDown": {
@@ -632,12 +632,12 @@
     "uptime": "97.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
-    "uptimeMonth": "57.71%",
+    "uptimeMonth": "58.02%",
     "uptimeYear": "95.99%",
     "time": 648,
     "timeDay": 154,
     "timeWeek": 321,
-    "timeMonth": 300,
+    "timeMonth": 301,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2023-05-17": 13,
