@@ -16,7 +16,7 @@
     "timeMonth": 177,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2023-05-24": 97,
+      "2023-05-24": 269,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -633,12 +633,12 @@
     "uptime": "97.87%",
     "uptimeDay": "97.53%",
     "uptimeWeek": "97.66%",
-    "uptimeMonth": "67.72%",
+    "uptimeMonth": "67.73%",
     "uptimeYear": "96.28%",
     "time": 645,
     "timeDay": 692,
     "timeWeek": 560,
-    "timeMonth": 336,
+    "timeMonth": 337,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2023-05-23": 36,
@@ -676,18 +676,19 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=3",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-sao-paulo",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.03%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.67%",
     "uptimeMonth": "97.54%",
-    "uptimeYear": "96.55%",
-    "time": 774,
-    "timeDay": 129,
-    "timeWeek": 397,
-    "timeMonth": 333,
-    "timeYear": 744,
+    "uptimeYear": "96.56%",
+    "time": 773,
+    "timeDay": 152,
+    "timeWeek": 380,
+    "timeMonth": 330,
+    "timeYear": 743,
     "dailyMinutesDown": {
+      "2023-05-24": 1,
       "2023-05-21": 54,
       "2023-05-20": 10,
       "2023-05-19": 25,
@@ -776,8 +777,7 @@
       "2022-08-07": 41,
       "2022-08-05": 26,
       "2022-07-20": 398,
-      "2022-07-19": 630,
-      "2022-07-10": 43
+      "2022-07-19": 630
     }
   }
 ]
