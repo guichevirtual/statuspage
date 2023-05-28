@@ -16,7 +16,8 @@
     "timeMonth": 178,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-05-27": 1424,
+      "2023-05-28": 104,
+      "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
@@ -367,8 +368,7 @@
       "2022-06-01": 1440,
       "2022-05-31": 1440,
       "2022-05-30": 1440,
-      "2022-05-29": 1440,
-      "2022-05-28": 1440
+      "2022-05-29": 1440
     }
   },
   {
@@ -525,7 +525,7 @@
     "slug": "sefaz-minas-gerais",
     "status": "up",
     "uptime": "96.70%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "8.38%",
     "uptimeWeek": "84.23%",
     "uptimeMonth": "95.97%",
     "uptimeYear": "95.49%",
@@ -634,12 +634,12 @@
     "uptime": "98.47%",
     "uptimeDay": "89.96%",
     "uptimeWeek": "90.88%",
-    "uptimeMonth": "73.39%",
+    "uptimeMonth": "73.42%",
     "uptimeYear": "97.31%",
     "time": 604,
     "timeDay": 617,
     "timeWeek": 413,
-    "timeMonth": 374,
+    "timeMonth": 372,
     "timeYear": 581,
     "dailyMinutesDown": {
       "2023-05-27": 146,
@@ -677,12 +677,12 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "98.21%",
-    "uptimeWeek": "98.80%",
+    "uptimeWeek": "99.43%",
     "uptimeMonth": "97.74%",
     "uptimeYear": "96.75%",
     "time": 764,
     "timeDay": 161,
-    "timeWeek": 359,
+    "timeWeek": 321,
     "timeMonth": 313,
     "timeYear": 735,
     "dailyMinutesDown": {
