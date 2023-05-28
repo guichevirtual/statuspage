@@ -16,7 +16,7 @@
     "timeMonth": 178,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-05-28": 572,
+      "2023-05-28": 585,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
@@ -525,7 +525,7 @@
     "slug": "sefaz-minas-gerais",
     "status": "up",
     "uptime": "96.70%",
-    "uptimeDay": "40.89%",
+    "uptimeDay": "41.78%",
     "uptimeWeek": "84.23%",
     "uptimeMonth": "95.97%",
     "uptimeYear": "95.49%",
@@ -630,16 +630,16 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=2",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-rio-grande-do-sul",
-    "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "89.92%",
+    "status": "down",
+    "uptime": "98.51%",
+    "uptimeDay": "89.90%",
     "uptimeWeek": "90.75%",
-    "uptimeMonth": "73.52%",
-    "uptimeYear": "97.33%",
-    "time": 604,
-    "timeDay": 536,
-    "timeWeek": 406,
-    "timeMonth": 373,
+    "uptimeMonth": "73.54%",
+    "uptimeYear": "97.39%",
+    "time": 603,
+    "timeDay": 509,
+    "timeWeek": 403,
+    "timeMonth": 372,
     "timeYear": 581,
     "dailyMinutesDown": {
       "2023-05-28": 13,
@@ -667,7 +667,7 @@
       "2023-04-28": 888,
       "2023-04-27": 863,
       "2023-04-26": 837,
-      "2023-04-25": 670
+      "2023-04-25": 346
     }
   },
   {
