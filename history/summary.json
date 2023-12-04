@@ -16,7 +16,7 @@
     "timeMonth": 168,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-12-04": 1062,
+      "2023-12-04": 1075,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
@@ -541,9 +541,9 @@
     "slug": "sefaz-minas-gerais",
     "status": "down",
     "uptime": "97.04%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "95.13%",
     "time": 552,
     "timeDay": 171,
@@ -551,7 +551,7 @@
     "timeMonth": 280,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2023-12-04": 0,
+      "2023-12-04": 13,
       "2023-11-17": 146,
       "2023-10-31": 151,
       "2023-10-17": 79,
@@ -642,18 +642,19 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=2",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-rio-grande-do-sul",
-    "status": "up",
+    "status": "down",
     "uptime": "97.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.28%",
     "uptimeMonth": "98.91%",
-    "uptimeYear": "94.39%",
+    "uptimeYear": "94.40%",
     "time": 478,
-    "timeDay": 148,
-    "timeWeek": 172,
+    "timeDay": 168,
+    "timeWeek": 173,
     "timeMonth": 202,
-    "timeYear": 434,
+    "timeYear": 433,
     "dailyMinutesDown": {
+      "2023-12-04": 0,
       "2023-12-03": 187,
       "2023-11-29": 88,
       "2023-11-24": 26,
@@ -732,8 +733,7 @@
       "2023-06-06": 320,
       "2023-06-05": 99,
       "2023-06-04": 74,
-      "2023-06-03": 85,
-      "2023-06-02": 39
+      "2023-06-03": 85
     }
   },
   {
@@ -741,18 +741,19 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=3",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-sao-paulo",
-    "status": "up",
+    "status": "down",
     "uptime": "97.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "93.63%",
-    "time": 520,
-    "timeDay": 151,
+    "time": 519,
+    "timeDay": 158,
     "timeWeek": 168,
-    "timeMonth": 237,
+    "timeMonth": 235,
     "timeYear": 428,
     "dailyMinutesDown": {
+      "2023-12-04": 1,
       "2023-11-27": 124,
       "2023-11-06": 13,
       "2023-10-23": 19,
@@ -839,7 +840,7 @@
       "2023-05-13": 257,
       "2023-05-12": 101,
       "2023-05-10": 27,
-      "2023-05-07": 51
+      "2023-05-07": 30
     }
   }
 ]
