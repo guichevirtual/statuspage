@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 210,
-    "timeDay": 238,
-    "timeWeek": 197,
-    "timeMonth": 177,
+    "time": 211,
+    "timeDay": 294,
+    "timeWeek": 211,
+    "timeMonth": 181,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2023-12-31": 82,
+      "2024-01-01": 84,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -379,8 +380,7 @@
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
-      "2023-01-02": 1440,
-      "2023-01-01": 1440
+      "2023-01-02": 1440
     }
   },
   {
@@ -392,13 +392,13 @@
     "uptime": "94.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.87%",
-    "uptimeMonth": "95.29%",
-    "uptimeYear": "96.27%",
-    "time": 1060,
-    "timeDay": 708,
-    "timeWeek": 677,
-    "timeMonth": 637,
-    "timeYear": 879,
+    "uptimeMonth": "95.45%",
+    "uptimeYear": "96.40%",
+    "time": 1059,
+    "timeDay": 684,
+    "timeWeek": 667,
+    "timeMonth": 638,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2023-12-26": 1233,
       "2023-12-25": 91,
@@ -440,8 +440,7 @@
       "2023-01-26": 54,
       "2023-01-25": 25,
       "2023-01-23": 19,
-      "2023-01-02": 823,
-      "2023-01-01": 1440
+      "2023-01-02": 823
     }
   },
   {
@@ -450,16 +449,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-mato-grosso-do-sul",
     "status": "up",
-    "uptime": "91.97%",
+    "uptime": "91.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "82.54%",
-    "time": 617,
-    "timeDay": 191,
-    "timeWeek": 227,
-    "timeMonth": 178,
-    "timeYear": 436,
+    "uptimeYear": "82.68%",
+    "time": 615,
+    "timeDay": 145,
+    "timeWeek": 220,
+    "timeMonth": 177,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2023-12-15": 90,
       "2023-11-03": 64,
@@ -531,8 +530,7 @@
       "2023-05-20": 101,
       "2023-03-08": 16,
       "2023-01-26": 91,
-      "2023-01-02": 823,
-      "2023-01-01": 1440
+      "2023-01-02": 823
     }
   },
   {
@@ -541,16 +539,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-minas-gerais",
     "status": "up",
-    "uptime": "97.13%",
+    "uptime": "97.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "95.10%",
-    "time": 506,
-    "timeDay": 178,
-    "timeWeek": 180,
+    "uptimeYear": "95.23%",
+    "time": 504,
+    "timeDay": 147,
+    "timeWeek": 173,
     "timeMonth": 182,
-    "timeYear": 403,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2023-12-14": 13,
       "2023-12-13": 23,
@@ -610,8 +608,7 @@
       "2023-01-30": 729,
       "2023-01-19": 182,
       "2023-01-18": 48,
-      "2023-01-02": 822,
-      "2023-01-01": 1440
+      "2023-01-02": 822
     }
   },
   {
@@ -624,17 +621,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.44%",
-    "time": 595,
-    "timeDay": 177,
-    "timeWeek": 173,
-    "timeMonth": 176,
-    "timeYear": 432,
+    "uptimeYear": "99.58%",
+    "time": 594,
+    "timeDay": 408,
+    "timeWeek": 204,
+    "timeMonth": 184,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2023-03-08": 16,
       "2023-02-25": 33,
-      "2023-01-02": 822,
-      "2023-01-01": 1440
+      "2023-01-02": 822
     }
   },
   {
@@ -644,15 +640,15 @@
     "slug": "sefaz-rio-grande-do-sul",
     "status": "up",
     "uptime": "97.66%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "97.65%",
     "uptimeYear": "94.50%",
-    "time": 413,
-    "timeDay": 172,
-    "timeWeek": 174,
-    "timeMonth": 176,
-    "timeYear": 359,
+    "time": 412,
+    "timeDay": 142,
+    "timeWeek": 169,
+    "timeMonth": 175,
+    "timeYear": 353,
     "dailyMinutesDown": {
       "2023-12-30": 13,
       "2023-12-29": 25,
@@ -758,11 +754,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "93.63%",
-    "time": 492,
-    "timeDay": 186,
-    "timeWeek": 173,
+    "time": 491,
+    "timeDay": 139,
+    "timeWeek": 165,
     "timeMonth": 168,
-    "timeYear": 374,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2023-12-04": 28,
       "2023-11-27": 124,
