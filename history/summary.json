@@ -16,7 +16,7 @@
     "timeMonth": 190,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-01-16": 782,
+      "2024-01-16": 805,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -645,15 +645,15 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=2",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-rio-grande-do-sul",
-    "status": "up",
+    "status": "down",
     "uptime": "97.76%",
-    "uptimeDay": "93.97%",
+    "uptimeDay": "93.95%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "97.58%",
-    "uptimeYear": "94.64%",
-    "time": 364,
-    "timeDay": 181,
-    "timeWeek": 175,
+    "uptimeYear": "94.65%",
+    "time": 363,
+    "timeDay": 185,
+    "timeWeek": 177,
     "timeMonth": 176,
     "timeYear": 337,
     "dailyMinutesDown": {
@@ -747,7 +747,7 @@
       "2023-07-07": 1440,
       "2023-07-06": 641,
       "2023-07-02": 16,
-      "2023-06-27": 90
+      "2023-06-27": 57
     }
   },
   {
