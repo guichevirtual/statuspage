@@ -16,7 +16,7 @@
     "timeMonth": 192,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-02-02": 515,
+      "2024-02-02": 528,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
@@ -446,7 +446,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-mato-grosso-do-sul",
     "status": "up",
-    "uptime": "92.25%",
+    "uptime": "92.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
@@ -636,16 +636,16 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=2",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-rio-grande-do-sul",
-    "status": "up",
-    "uptime": "97.80%",
-    "uptimeDay": "94.57%",
+    "status": "down",
+    "uptime": "98.24%",
+    "uptimeDay": "94.55%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "98.75%",
-    "uptimeYear": "94.63%",
-    "time": 336,
-    "timeDay": 187,
-    "timeWeek": 177,
-    "timeMonth": 170,
+    "uptimeYear": "95.71%",
+    "time": 335,
+    "timeDay": 192,
+    "timeWeek": 180,
+    "timeMonth": 171,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2024-02-02": 78,
@@ -732,12 +732,7 @@
       "2023-07-18": 676,
       "2023-07-17": 444,
       "2023-07-12": 753,
-      "2023-07-11": 453,
-      "2023-07-10": 691,
-      "2023-07-09": 1440,
-      "2023-07-08": 1440,
-      "2023-07-07": 1440,
-      "2023-07-06": 641
+      "2023-07-11": 453
     }
   },
   {
@@ -745,16 +740,16 @@
     "url": "https://onboardapi.guichepass.com.br/sefaz?code=3",
     "icon": "https://icons.duckduckgo.com/ip3/onboardapi.guichepass.com.br.ico",
     "slug": "sefaz-sao-paulo",
-    "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "96.47%",
-    "uptimeWeek": "99.50%",
+    "status": "down",
+    "uptime": "97.39%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "97.96%",
     "uptimeYear": "93.62%",
-    "time": 443,
-    "timeDay": 186,
-    "timeWeek": 176,
-    "timeMonth": 168,
+    "time": 442,
+    "timeDay": 188,
+    "timeWeek": 178,
+    "timeMonth": 169,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2024-02-02": 51,
@@ -840,7 +835,7 @@
       "2023-05-30": 67,
       "2023-05-28": 26,
       "2023-05-27": 26,
-      "2023-05-24": 32
+      "2023-05-24": 19
     }
   }
 ]
