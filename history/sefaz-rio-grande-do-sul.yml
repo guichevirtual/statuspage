@@ -1,7 +1,7 @@
 url: https://onboardapi.guichepass.com.br/sefaz?code=2
-status: down
-code: 500
-responseTime: 145
-lastUpdated: 2024-02-04T16:58:40.215Z
+status: up
+code: 200
+responseTime: 144
+lastUpdated: 2024-02-04T17:18:01.945Z
 startTime: 2021-08-25T16:39:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
